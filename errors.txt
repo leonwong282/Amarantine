@@ -1,0 +1,106 @@
+﻿I'm sorry, but errors were detected in your script. Please correct the
+errors listed below, and try again.
+
+
+File "game/chapter1.rpy", line 22: end of line expected.
+    y ""这就是宫外的世界吗？"云锦心中充满了喜悦和兴奋。她第一次感受到如此自由的空气，内心的渴望得到了满足。"
+        ^
+
+File "game/chapter1.rpy", line 31: end of line expected.
+    l ""祖母，您慢点，小心路滑。"凌风关切地说道。"
+        ^
+
+File "game/chapter1.rpy", line 33: end of line expected.
+    z "祖母微微一笑："风儿，不用担心我。我们到前面的书店看看吧，也许能找到些有用的书籍。""
+               ^
+
+File "game/chapter1.rpy", line 42: end of line expected.
+    y ""啊，抱歉。"云锦轻声说道，迅速收回了手。"
+        ^
+
+File "game/chapter1.rpy", line 44: end of line expected.
+    l "凌风微微一笑："是我冒昧了。姑娘也对这本诗集感兴趣吗？""
+               ^
+
+File "game/chapter1.rpy", line 46: end of line expected.
+    y "云锦点点头："是的，我找这本书很久了。""
+              ^
+
+File "game/chapter1.rpy", line 48: end of line expected.
+    d "店主走过来，歉意地说道："两位客官，不好意思，这本诗集是最后一本了。""
+                    ^
+
+File "game/chapter1.rpy", line 54: end of line expected.
+    y "云锦摇了摇头："不，这位公子先看到的，还是您拿去吧。""
+               ^
+
+File "game/chapter1.rpy", line 59: end of line expected.
+    y "云锦轻声说："我确实很喜欢这本书，不知公子是否愿意割爱？""
+              ^
+
+File "game/chapter1.rpy", line 62: end of line expected.
+    l "凌风思索片刻，温和地说道："既然如此，不如这样，我们各自念一首诗，若姑娘能对上下句，这本书就归你，如何？""
+                     ^
+
+File "game/chapter1.rpy", line 64: end of line expected.
+    y "云锦眼中闪过一丝俏皮："好啊，公子请出题。""
+                   ^
+
+File "game/chapter1.rpy", line 66: end of line expected.
+    l "凌风清了清嗓子，吟道："山有木兮木有枝，心悦君兮君不知。""
+                   ^
+
+File "game/chapter1.rpy", line 68: end of line expected.
+    y "云锦微微一笑，接道："月出皎兮兔东升，君思我兮我念君。""
+                  ^
+
+File "game/chapter1.rpy", line 70: end of line expected.
+    l "凌风赞赏地点点头："姑娘才思敏捷，佩服。""
+                 ^
+
+File "game/chapter1.rpy", line 72: end of line expected.
+    y "云锦轻轻福身："承让了。""
+               ^
+
+File "game/chapter1.rpy", line 77: end of line expected.
+    d "店主在一旁笑道："既然两位都如此喜爱这本书，不如我帮忙再找找，看有没有别的版本。""
+                ^
+
+File "game/chapter1.rpy", line 79: end of line expected.
+    l "凌风摇头道："不必麻烦了。这本书就送给姑娘吧，算是今日的缘分。""
+              ^
+
+File "game/chapter1.rpy", line 81: end of line expected.
+    y "云锦接过书，心中对眼前的男子产生了好感："多谢公子。不知公子尊姓大名？""
+                            ^
+
+File "game/chapter1.rpy", line 83: end of line expected.
+    l ""在下凌风，刚到京城谋生。姑娘如何称呼？""
+        ^
+
+File "game/chapter1.rpy", line 85: end of line expected.
+    y "云锦迟疑了一下，回答道："我叫……云锦。""
+                    ^
+
+File "game/chapter1.rpy", line 87: end of line expected.
+    l ""云锦姑娘，很高兴认识你。""
+        ^
+
+File "game/chapter1.rpy", line 89: end of line expected.
+    z "两人相视一笑，仿佛旧友重逢。就在这时，凌风的祖母走了过来："风儿，该走了。""
+                                     ^
+
+File "game/chapter1.rpy", line 91: end of line expected.
+    l ""好的，祖母。"凌风回应道。他转向云锦，微微作揖："改日有缘再见。""
+        ^
+
+File "game/chapter1.rpy", line 93: end of line expected.
+    y ""好，后会有期。"云锦目送凌风离去，心中泛起一丝不舍。"
+        ^
+
+File "game/chapter1.rpy", line 98: end of line expected.
+    y ""也许，我们还会再见面。"她轻声自语，心中充满了期待。那个名叫凌风的男子，他的温柔和才华，让她感到心动。"
+        ^
+
+Ren'Py Version: Ren'Py 8.3.2.24090902
+Thu Sep  4 12:25:30 2025
